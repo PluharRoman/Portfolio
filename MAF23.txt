@@ -1,0 +1,21 @@
+summary:"new folder" button, in the "file manager" menu, is not active.
+Type: Bug
+Status:DONE  (View Workflow)
+Priority: Medium
+Resolution: Done
+Labels:None
+Description
+Steps to reproduce:
+
+1 lauch application "file manager"
+
+Expected result:
+
+buttons "New folde","delete" must have a valid label.
+
+Actual result:
+
+button "new folder", "delete" are mixed up.
+
+( button "new folder" suld be second, affter button "new file" )
+

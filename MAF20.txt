@@ -1,0 +1,22 @@
+Summary:"unselect all" , "file manager" menu , when i click in check box "select all"
+Details
+Type: Bug
+Status:DONE  (View Workflow)
+Priority: Medium
+Resolution: Done
+Labels:None
+Description
+Steps to reproduce:
+
+1 luch application "file manger"
+
+2 open any folder, whith any files.
+
+3 click in check box "selected all"
+
+Expected result:
+
+check box "unselected all" shuld be empty, and ready for activeting, after clicing in check box "select all".
+Actual result :
+
+check box "unselect all" become inactive when check box "select all" filled.

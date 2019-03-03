@@ -1,0 +1,21 @@
+Summary:"rename" button, meets twice in "file manager" menu.	
+Details
+Type: Bug
+Status:DONE  (View Workflow)
+Priority: Low
+Resolution: Done
+Labels:None
+Description
+Steps to reproduce:
+
+1 lounch application "file manager".
+
+Expected result:
+
+on the "file manager" manu, ,button "reneme" suld be after button "edit".
+
+reason : Logic - first of all you suld EDIT file, only after RENEME. 
+
+Actual result : 
+
+button "rename" meets twice.

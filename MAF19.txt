@@ -1,0 +1,25 @@
+Summary: "selected all" , clicking on chech box in the application "file manager"
+Details
+Type: Bug
+Status:DONE  (View Workflow)
+Priority: Medium
+Resolution: Done
+Labels:None
+Description
+Steps to reproduce
+
+1 lunch application "file manager"
+
+2 Open any folder, whith any files.
+
+3 click on check box "select all" to select all files from displayed list;
+
+Expected result:
+
+1 check mark inserted in check box "selected all' - all files suld be selected.
+
+Actual result :
+
+1 check mark inserted in check box "selected all' - no one file selected.
+
+ 
